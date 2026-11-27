@@ -38,5 +38,5 @@ Tools yang digunakan dalam pengerjaan dan penyiapan submission:
 
 Dengan mengisi bagian ini, kedua anggota menyatakan telah memeriksa dan menyetujui pembagian kontribusi serta keterangan tools yang digunakan.
 
-- **Aura Izzatul Afifa** — Persetujuan: [Belum dikonfirmasi] — Tanggal: [25/11/2025]
+- **Aura Izzatul Afifa** — Persetujuan: [Terkonfirmasi] — Tanggal: [25/11/2025]
 - **Gilang Surya Persada Setiawan** — Persetujuan: [Terkonfirmasi] — Tanggal: [25/11/2025]
